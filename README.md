@@ -41,7 +41,13 @@
 ![alt text](img/duowenjiangeshi.png)
 
 ## 视频介绍
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Ay421Y7oC&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe 
+src="//player.bilibili.com/player.html?bvid=BV1Ay421Y7oC&page=1" 
+scrolling="no" 
+width="400px" height="300px" 
+border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+</iframe>
 
 ## 环境配置
 ### 软件要求
