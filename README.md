@@ -1,10 +1,10 @@
 # 文渊
 
-产品介绍
+## 产品介绍
 文渊 基于大模型检索增强生成式应用（RAG），目的降低大模型在实际使用场景的准入门槛，让所有人都能体验到大模型带来的生产效率的提升，本项目支持30+文件类型的导入问答，具有强大的兼容能力和适配能力
 
 可快速应用至高校、教育、医疗、博物馆、建筑、客服等行业，解决专家知识平台建设和应用等问题
-产品特性
+## 产品特性
 1. 支持用户权限管理
 2. 支持多知识库组合问答。
 3. 支持纯知识库领域问答，也可支持知识库+LLM组合问答
@@ -23,35 +23,34 @@
 16. 基于langchain框架研发，二开可快速集成官方的插件能力
 17. 支持30+种文件类型导入，覆盖主流的业务场景
 
-技术原理
-[图片]
-产品UI
-- 对话
-[图片]
-- 知识库管理
-[图片]
-- 多文件格式支持
-[图片]
+## 技术原理
 
-视频介绍
+![alt text](img/jishu.png)
+
+## 产品UI
+- 对话
+
+![alt text](img/duihua.png)
+
 - 知识库管理
-暂时无法在飞书文档外展示此内容
-- 知识库问答
-暂时无法在飞书文档外展示此内容
-- 大模型问答
-暂时无法在飞书文档外展示此内容
-- 搜索引擎问答
-暂时无法在飞书文档外展示此内容
-- 文件问答
-暂时无法在飞书文档外展示此内容
-环境配置
-软件要求
+
+![alt text](img/zhishiku.png)
+
+- 多文件格式支持
+
+![alt text](img/duowenjiangeshi.png)
+
+## 视频介绍
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Ay421Y7oC&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## 环境配置
+### 软件要求
 - Python 3.10+
 - CUDA 12.1+
 - 科学上网环境（可选）
 
-硬件要求：
-线上联网版
+### 硬件要求：
+#### 线上联网版
 - LLM & embedding模型 都接线上服务
 要求：
 - CPU：intel I7 +
@@ -59,7 +58,7 @@
 - linux环境
 - 科学上网环境
 
-基础性能版
+#### 基础性能版
 部署ChatGLM-6B,Baichaun-7B 这类小模型
 要求：
 - CPU：intel I7 +
@@ -68,7 +67,7 @@
 - 显存：14G
 - linux环境
 
-高性能版
+#### 高性能版
 部署Baichaun-13B 、Qwen-14B 大模型
 要求：
 - CPU：intel I7 +
@@ -77,7 +76,7 @@
 - 显存：32G+
 - linux环境
 
-高性能版Plus
+#### 高性能版Plus
 部署Qwen-72B 超大模型
 要求：
 - CPU：intel I7 +
@@ -86,6 +85,8 @@
 - 显存：160G+
 - linux环境
 
-联系方式
-[图片]
-- v：xllfdsj
+## 联系方式
+<div align="center">
+ <img src="img/person.png" width = "200" height = "200" alt="图片名称" align=center />
+ </div>
+
