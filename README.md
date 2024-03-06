@@ -42,14 +42,9 @@
 
 ## 视频介绍
 
-<iframe 
-src="//player.bilibili.com/player.html?bvid=BV1Ay421Y7oC&page=1" 
-scrolling="no" 
-width="400px" height="300px" 
-border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
-</iframe>
 
-## 环境配置
+[![视频介绍](img/wenyuan01.jpg)](https://www.bilibili.com/video/BV1Ay421Y7oC/)
+
 ### 软件要求
 - Python 3.10+
 - CUDA 12.1+
